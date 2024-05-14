@@ -8,7 +8,7 @@ hideipnetwork was developed to evade censorship on the web
 ## 😃Quickstart
 
 ```
-git clone -b v3 https://github.com/Hideipnetwork/hideipnetwork-web.git
+git clone -b v3 https://github.com/jiusiguer/hideipnetwork-web3.git
 ```
 
 ```
